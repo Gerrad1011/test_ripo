@@ -1,1 +1,2 @@
 Hello my first file
+\nappending text to the file
