@@ -1,4 +1,6 @@
+# Large heading
 
+## smaller heading
 
 AND as **imagination** bodies forth,
 The forms of things *unknown*, the
@@ -11,9 +13,9 @@ The forms of things *unknown*, the
   - an unordered
   - list
   
-  1.This is
-  2.an ordered
-  3.list
+  1. This is
+  2. an ordered
+  3. list
   
   Here is `some code` in the middle of a
    sentence.
@@ -26,7 +28,5 @@ The forms of things *unknown*, the
    
    Here is how you make [a link](https://www.wikipedia.org/).
    
-   ![This is an image.](https://github.com
-    /yihui/xaringan/releases/download/v0.0
-    .2/karl-moustache.jpg)
+   ![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
     
